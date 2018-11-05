@@ -29,7 +29,7 @@ public class EmployeeDetails
 				switch(choice)
 				{
 				case 1:
-							st.executeUpdate("insert into Employee values('Vijay Kumar',56,'Test Engr')");
+							st.executeUpdate("insert into Employee values('Vijay Kumar',7856,'Test Engr')");
 							System.out.println("Record inserted");
 							break;
 							
